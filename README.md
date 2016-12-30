@@ -1,6 +1,5 @@
 # lamp.sh
-* Lamp File Setup
-* Packages to be installed
+Lamp File Setup :: Packages to be installed
 
 - apache
 - mysql
