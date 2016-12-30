@@ -15,5 +15,5 @@ Packages to be installed
 
 ** To install thsese packages first clone the gir repo. And then use command** 
 ```ssh
-sh.lamp.sh
+sh lamp.sh
 ```
